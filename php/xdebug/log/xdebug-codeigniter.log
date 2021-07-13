@@ -1,0 +1,54 @@
+[15] Log opened at 2021-07-09 17:38:59.737904
+[15] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[15] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[15] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[15] Log closed at 2021-07-09 17:38:59.942516
+
+[25] Log opened at 2021-07-09 17:39:08.815391
+[25] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[25] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[25] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[25] Log closed at 2021-07-09 17:39:13.458267
+
+[37] Log opened at 2021-07-09 17:41:31.815264
+[37] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[37] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[37] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[37] Log closed at 2021-07-09 17:41:35.318761
+
+[49] Log opened at 2021-07-09 17:43:29.680233
+[49] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[49] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[49] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[49] Log closed at 2021-07-09 17:43:29.864821
+
+[60] Log opened at 2021-07-09 17:43:50.017006
+[60] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[60] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[60] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[60] Log closed at 2021-07-09 17:43:53.210955
+
+[15] Log opened at 2021-07-09 17:58:24.927533
+[15] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[15] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[15] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[15] Log closed at 2021-07-09 17:58:25.103694
+
+[26] Log opened at 2021-07-09 17:58:39.334063
+[26] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[26] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[26] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[26] Log closed at 2021-07-09 17:58:43.151779
+
+[19] Log opened at 2021-07-09 18:07:14.649684
+[19] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[19] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[19] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[19] Log closed at 2021-07-09 18:07:24.187030
+
+[18] Log opened at 2021-07-12 23:41:55.367981
+[18] [Step Debug] INFO: Connecting to configured address/port: host.docker.internal:9003.
+[18] [Step Debug] WARN: Creating socket for 'host.docker.internal:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: host.docker.internal:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[18] Log closed at 2021-07-12 23:41:55.533108
+
